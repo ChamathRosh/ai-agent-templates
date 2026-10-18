@@ -1,6 +1,6 @@
 # Missed-call text-back that books the job
 
-Every missed call gets an instant text that qualifies the lead and offers a booking link.
+Every missed call gets a short text drafted for you to approve, asking what they need and offering a booking link. Instant sending is an optional upgrade later.
 
 - **Agent:** Support / front-desk agent
 - **Schedule:** Always on (missed calls)
@@ -18,7 +18,7 @@ Grok Bot routine: Missed-call text-back that books the job
 Schedule: Always on (missed calls)
 Tools I use: SMS / WhatsApp, Google Calendar.
 
-When I miss a call, text the caller within 1 minute: apologize, ask what they need, and offer two booking times from my calendar. Log the lead and notify me with a summary.
+When I miss a call, draft a short text to the caller: apologize, ask what they need, and offer two booking times from my calendar. Send me the draft to approve, and only send it to the caller after I approve it. (Instant sending is an optional upgrade once you trust the wording.) Log the lead and notify me with a summary.
 
 Rules: draft first, never send or post anything external without my approval. Keep summaries short.
 ```
@@ -31,7 +31,7 @@ Run: Always on (missed calls)
 Tools I use: SMS / WhatsApp, Google Calendar.
 
 Instructions:
-When I miss a call, text the caller within 1 minute: apologize, ask what they need, and offer two booking times from my calendar. Log the lead and notify me with a summary.
+When I miss a call, draft a short text to the caller: apologize, ask what they need, and offer two booking times from my calendar. Send me the draft to approve, and only send it to the caller after I approve it. (Instant sending is an optional upgrade once you trust the wording.) Log the lead and notify me with a summary.
 
 Always ask before sending anything on my behalf.
 ```
@@ -43,7 +43,7 @@ Claude project instructions: Missed-call text-back that books the job
 Cadence: Always on (missed calls)
 Tools I use: SMS / WhatsApp, Google Calendar.
 
-You are my support / front-desk agent. When I miss a call, text the caller within 1 minute: apologize, ask what they need, and offer two booking times from my calendar. Log the lead and notify me with a summary.
+You are my support / front-desk agent. When I miss a call, draft a short text to the caller: apologize, ask what they need, and offer two booking times from my calendar. Send me the draft to approve, and only send it to the caller after I approve it. (Instant sending is an optional upgrade once you trust the wording.) Log the lead and notify me with a summary.
 
 Output drafts only; I approve before anything goes out.
 ```
@@ -59,7 +59,7 @@ Tools I use: SMS / WhatsApp, Google Calendar.
 2. Add nodes that fetch the inputs this routine needs (e.g. SMS / WhatsApp, Google Calendar).
 3. Add an AI Agent node (connect your model: OpenAI, Anthropic, or another provider) and paste this as the system prompt:
 
-When I miss a call, text the caller within 1 minute: apologize, ask what they need, and offer two booking times from my calendar. Log the lead and notify me with a summary.
+When I miss a call, draft a short text to the caller: apologize, ask what they need, and offer two booking times from my calendar. Send me the draft to approve, and only send it to the caller after I approve it. (Instant sending is an optional upgrade once you trust the wording.) Log the lead and notify me with a summary.
 
 4. Send the output to yourself first (Gmail draft, Slack or Telegram message). Add a "Send and wait for response" / approval step before anything goes to a customer.
 5. Test with "Execute workflow", check the output, then activate it.

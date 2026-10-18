@@ -50,7 +50,7 @@ Finds and qualifies leads, drafts follow-ups and keeps your pipeline moving.
 | [Never miss a lead follow-up](templates/sales/lead-follow-up-sequences.md) | Daily 11:00 | ~4 | [lead-follow-up-sequences.md](templates/sales/lead-follow-up-sequences.md) | [page](https://whatshouldmybotdo.com/use-cases/lead-follow-up-sequences) |
 | [Turn discovery calls into proposals](templates/sales/proposal-generator.md) | After each discovery call | ~4 | [proposal-generator.md](templates/sales/proposal-generator.md) | [page](https://whatshouldmybotdo.com/use-cases/proposal-generator) |
 | [Research 20 ideal prospects a day](templates/sales/linkedin-prospect-research.md) | Weekdays 8:00 | ~5 | [linkedin-prospect-research.md](templates/sales/linkedin-prospect-research.md) | [page](https://whatshouldmybotdo.com/use-cases/linkedin-prospect-research) |
-| [Qualify property leads instantly](templates/sales/realtor-lead-qualifier.md) | Always on | ~6 | [realtor-lead-qualifier.md](templates/sales/realtor-lead-qualifier.md) | [page](https://whatshouldmybotdo.com/use-cases/realtor-lead-qualifier) |
+| [Qualify property leads fast, with your OK on each reply](templates/sales/realtor-lead-qualifier.md) | Always on | ~6 | [realtor-lead-qualifier.md](templates/sales/realtor-lead-qualifier.md) | [page](https://whatshouldmybotdo.com/use-cases/realtor-lead-qualifier) |
 | [Personal abandoned-cart follow-ups](templates/sales/abandoned-cart-recovery.md) | Daily 19:00 | ~2 | [abandoned-cart-recovery.md](templates/sales/abandoned-cart-recovery.md) | [page](https://whatshouldmybotdo.com/use-cases/abandoned-cart-recovery) |
 | [Win back and upsell past customers](templates/sales/upsell-past-customers.md) | 1st & 15th monthly | ~3 | [upsell-past-customers.md](templates/sales/upsell-past-customers.md) | [page](https://whatshouldmybotdo.com/use-cases/upsell-past-customers) |
 
@@ -74,11 +74,11 @@ Answers customers, books jobs and handles FAQs 24/7 in your voice.
 
 | Template | Schedule | Est. hours/week | Markdown | On the site |
 |---|---|---|---|---|
-| [Book plumbing jobs by SMS with no office staff](templates/support-front-desk/sms-job-booking-no-office-staff.md) | Always on (inbound SMS) | ~12 | [sms-job-booking-no-office-staff.md](templates/support-front-desk/sms-job-booking-no-office-staff.md) | [page](https://whatshouldmybotdo.com/use-cases/sms-job-booking-no-office-staff) |
+| [Book plumbing jobs by SMS, with your OK on every reply](templates/support-front-desk/sms-job-booking-no-office-staff.md) | Always on (inbound SMS) | ~12 | [sms-job-booking-no-office-staff.md](templates/support-front-desk/sms-job-booking-no-office-staff.md) | [page](https://whatshouldmybotdo.com/use-cases/sms-job-booking-no-office-staff) |
 | [Missed-call text-back that books the job](templates/support-front-desk/missed-call-text-back.md) | Always on (missed calls) | ~6 | [missed-call-text-back.md](templates/support-front-desk/missed-call-text-back.md) | [page](https://whatshouldmybotdo.com/use-cases/missed-call-text-back) |
 | [Ask every customer for a review, with your OK on each day's list](templates/support-front-desk/review-request-routine.md) | Daily 18:00 | ~2 | [review-request-routine.md](templates/support-front-desk/review-request-routine.md) | [page](https://whatshouldmybotdo.com/use-cases/review-request-routine) |
 | [FAQ support in your voice, with your OK on every reply](templates/support-front-desk/faq-support-agent.md) | Always on | ~8 | [faq-support-agent.md](templates/support-front-desk/faq-support-agent.md) | [page](https://whatshouldmybotdo.com/use-cases/faq-support-agent) |
-| [Order-status answers on WhatsApp](templates/support-front-desk/order-status-whatsapp.md) | Always on | ~6 | [order-status-whatsapp.md](templates/support-front-desk/order-status-whatsapp.md) | [page](https://whatshouldmybotdo.com/use-cases/order-status-whatsapp) |
+| [Order-status answers on WhatsApp, with your OK](templates/support-front-desk/order-status-whatsapp.md) | Always on | ~6 | [order-status-whatsapp.md](templates/support-front-desk/order-status-whatsapp.md) | [page](https://whatshouldmybotdo.com/use-cases/order-status-whatsapp) |
 | [Reply to every app review](templates/support-front-desk/app-store-review-replies.md) | Daily 10:00 | ~2 | [app-store-review-replies.md](templates/support-front-desk/app-store-review-replies.md) | [page](https://whatshouldmybotdo.com/use-cases/app-store-review-replies) |
 | [Appointment reminders that cut no-shows, with your OK on each day's list](templates/support-front-desk/appointment-reminders.md) | Daily 17:00 | ~3 | [appointment-reminders.md](templates/support-front-desk/appointment-reminders.md) | [page](https://whatshouldmybotdo.com/use-cases/appointment-reminders) |
 
@@ -88,12 +88,12 @@ Handles invoices, bookkeeping prep, reporting and the boring glue work.
 
 | Template | Schedule | Est. hours/week | Markdown | On the site |
 |---|---|---|---|---|
-| [Invoice chaser that gets you paid](templates/ops-and-admin/invoice-chaser.md) | Mondays 9:00 | ~2 | [invoice-chaser.md](templates/ops-and-admin/invoice-chaser.md) | [page](https://whatshouldmybotdo.com/use-cases/invoice-chaser) |
+| [Invoice chaser, with your OK on every reminder](templates/ops-and-admin/invoice-chaser.md) | Mondays 9:00 | ~2 | [invoice-chaser.md](templates/ops-and-admin/invoice-chaser.md) | [page](https://whatshouldmybotdo.com/use-cases/invoice-chaser) |
 | [Quotes from customer photos](templates/ops-and-admin/quote-from-photos.md) | On new photo request | ~4 | [quote-from-photos.md](templates/ops-and-admin/quote-from-photos.md) | [page](https://whatshouldmybotdo.com/use-cases/quote-from-photos) |
 | [Monthly bookkeeping prep](templates/ops-and-admin/bookkeeping-prep.md) | 1st of each month | ~3 | [bookkeeping-prep.md](templates/ops-and-admin/bookkeeping-prep.md) | [page](https://whatshouldmybotdo.com/use-cases/bookkeeping-prep) |
 | [Metrics digest without opening dashboards](templates/ops-and-admin/kpi-dashboard-digest.md) | Daily 8:00 | ~2 | [kpi-dashboard-digest.md](templates/ops-and-admin/kpi-dashboard-digest.md) | [page](https://whatshouldmybotdo.com/use-cases/kpi-dashboard-digest) |
 | [Weekly client status updates](templates/ops-and-admin/client-status-updates.md) | Fridays 12:00 | ~3 | [client-status-updates.md](templates/ops-and-admin/client-status-updates.md) | [page](https://whatshouldmybotdo.com/use-cases/client-status-updates) |
-| [Client onboarding on autopilot](templates/ops-and-admin/client-onboarding.md) | On new payment | ~2 | [client-onboarding.md](templates/ops-and-admin/client-onboarding.md) | [page](https://whatshouldmybotdo.com/use-cases/client-onboarding) |
+| [Client onboarding, with your OK on the welcome email](templates/ops-and-admin/client-onboarding.md) | On new payment | ~2 | [client-onboarding.md](templates/ops-and-admin/client-onboarding.md) | [page](https://whatshouldmybotdo.com/use-cases/client-onboarding) |
 | [Bug watch from user reports](templates/ops-and-admin/bug-watch.md) | Daily 12:00 | ~3 | [bug-watch.md](templates/ops-and-admin/bug-watch.md) | [page](https://whatshouldmybotdo.com/use-cases/bug-watch) |
 
 ## License
